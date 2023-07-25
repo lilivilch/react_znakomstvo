@@ -2,7 +2,7 @@
   "name": "znakomstvo",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://lilivilch.github.io/react_znakomstvo /"
+  "homepage": "https://lilivilch.github.io/react_znakomstvo"
   ,
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
